@@ -266,7 +266,7 @@ export default function Home() {
             <div>
               <h2 className="text-xl font-bold text-slate-800">🚀 Investment Picks</h2>
               <p className="text-sm text-slate-500 mt-0.5">
-                Companies with 125%+ growth over the last 5 years, sorted by performance
+                🇺🇸 US (S&amp;P 500) &amp; 🇬🇧 UK (FTSE 100/250) — 125%+ 5-year growth, sorted by performance
               </p>
             </div>
           </div>
@@ -311,7 +311,7 @@ export default function Home() {
             ⚠️ <strong>Not financial advice.</strong> Past performance does not guarantee future results.
             Always conduct your own research before investing.
           </p>
-          <p className="mt-1">Data sourced from Yahoo Finance • Emails sent daily at 9 AM ET</p>
+          <p className="mt-1">Data sourced from Yahoo Finance • Covers S&amp;P 500 (US) + FTSE 100/250 (UK) • Emails sent daily at 9 AM ET</p>
         </footer>
       </main>
     </>
